@@ -10,10 +10,12 @@ I am a student of the subject Analysis and Design Algorithms taught by Professor
 
 ## About
 
-* Ercises on algorithms of uri judge online page
+* Exercises on algorithms of uri judge online page
+![Algorithms](https://pm1.narvii.com/7225/148367624ca9b3686aead125934a1ec24f04fa29r1-242-140v2_uhq.jpg)
 * Java api Collectiosn
-* ![Algorithms](https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/lab/lab5/img/java-collection-hierarchy.png)
+ ![Algorithms](https://inst.eecs.berkeley.edu/~cs61b/sp20/materials/lab/lab5/img/java-collection-hierarchy.png)
 * sorting methods
+![Algorithms](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
 
 
 
