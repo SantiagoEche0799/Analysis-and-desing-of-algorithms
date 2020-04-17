@@ -68,5 +68,26 @@ ___
 |13.Dijkstra|<https://www.urionlinejudge.com.br/judge/es/problems/view/2653>|
 |14.Lu - Di - Oh!|<https://www.urionlinejudge.com.br/judge/en/problems/view/2542>|
 
+___
+
+## Solution Exercises
+
+|Algorithm exercise|Solution|
+|------------------|--------|
+|1.Salario|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio1/Ejercicio_Salario.java>|
+|2.Combustible Gastado|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio2/Ejercicio_CombustibleGastado.java> |
+|3.DDD|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio3/Ejercicio_DDD.java>|
+|4.Impuestos|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio4/Ejercicio_Impuestos.java>|
+|5.A long, long time ago|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio4/Ejercicio_Impuestos.java>|
+|6.Walking in time|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio6/Walking_in_Time.java>|
+|7.Hot dogs|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio7/Hot_Dogs.java>|
+|8.Star Trek|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.primer_corte.ada.usbbog/src/ejercicio8/Star_Trek.java>|
+|9.Intership|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio1/Internship.java>|
+|10.Web Browser|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio2/Web_Browser.java>|
+|11.Magic and Sword|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio3/Magic_and_Sword.java>|
+|12.Bacterial Domination|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio4/Dominacion_Bacteriana_v3.java>|
+|13.Dijkstra|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio5/Dijkstra.java>|
+|14.Lu - Di - Oh!|<https://github.com/SantiagoEche0799/Analysis-and-desing-of-algorithms/blob/master/ejercicios.segundoCorte.ada.usbbog/src/ejercicio6/Iu_Di_Oh_v2.java>|
+
 
 
