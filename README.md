@@ -59,7 +59,7 @@ ___
 |11.Magic and Sword|<https://www.urionlinejudge.com.br/judge/es/problems/view/2632>|
 |12.Bacterial Domination|<https://www.urionlinejudge.com.br/judge/en/problems/view/2687>|
 |13.Dijkstra|<https://www.urionlinejudge.com.br/judge/es/problems/view/2653>|
-|14.Lu - Di - Oh!<https://www.urionlinejudge.com.br/judge/en/problems/view/2542>|
+|14.Lu - Di - Oh!|<https://www.urionlinejudge.com.br/judge/en/problems/view/2542>|
 
 
 
