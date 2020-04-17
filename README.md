@@ -39,3 +39,27 @@ I am a student of the subject Analysis and Design Algorithms taught by Professor
 >   *    Quicksort
 >   *    Selección
 >   *	Shell
+
+___
+
+## Exercises
+
+|Algorithm exercise|Solution|
+|------------------|--------|
+|1.Salario|<https://www.urionlinejudge.com.br/judge/es/problems/view/1008>|
+|2.Combustible Gastado|<https://www.urionlinejudge.com.br/judge/es/problems/view/1017> |
+|3.DDD|<https://www.urionlinejudge.com.br/judge/es/problems/view/1050>|
+|4.Impuestos|<https://www.urionlinejudge.com.br/judge/es/problems/view/1051>|
+|5.A long, long time ago|<https://www.urionlinejudge.com.br/judge/es/problems/view/1962>|
+|6.Walking in time|<https://www.urionlinejudge.com.br/judge/es/problems/view/2235>|
+|7.Hot dogs|<https://www.urionlinejudge.com.br/judge/es/problems/view/2234>|
+|8.Star Trek|<https://www.urionlinejudge.com.br/judge/es/problems/view/1973>|
+|9.Intership|<https://www.urionlinejudge.com.br/judge/es/problems/view/2533>|
+|10.Web Browser|<https://www.urionlinejudge.com.br/judge/es/problems/view/2635>|
+|11.Magic and Sword|<https://www.urionlinejudge.com.br/judge/es/problems/view/2632>|
+|12.Bacterial Domination|<https://www.urionlinejudge.com.br/judge/en/problems/view/2687>|
+|13.Dijkstra|<https://www.urionlinejudge.com.br/judge/es/problems/view/2653>|
+|14.Lu - Di - Oh!|<urionlinejudge.com.br/judge/en/problems/view/2542>|
+
+
+
